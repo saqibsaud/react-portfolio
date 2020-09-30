@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Saqib Saud",
+    "occupation": "Software Engineer at NetPay",
+    "description": "Full Stack Developer by Day,Project Manager by Evening at H2M Design && Freelancer by Night.",
+    "image": "IG-saqib_saud.jpg",
+    "bio": "My name is Saqib, I'm a Full Stack Developer. Currently I'm working at NetPay",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "saqibsaudc@gmail.com",
+    "phone": "+91 7200783219",
+    "address": {
+      "street": "Muslimpur",
+      "city": "Vaniyambadi",
+      "state": "Tamilnadu",
+      "zip": "635751"
+    },
+    "website": "#",
+    "resumedownload": "SAQIB-SAUD-RESUME.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/SaqibSaud",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://in.linkedin.com/in/saqib-saud",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saqib_saud/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/saqibsaud",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Let's solve the problem, First. Then, write the code.",
+    "education": [
+      {
+        "school": "Aalim Muhammed Salegh College of Engineering",
+        "degree": "Masters in Computer Application",
+        "graduated": "May 2020",
+        "description": "Graduated with Distinction && Experienced work culture"
+      },
+      {
+        "school": "Islamiah College",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "May 2018",
+        "description": "Graduated with great programming skills"
+      }
+    ],
+    "work": [
+      {
+        "company": "NetPay Limited",
+        "title": "Software Engineer",
+        "years": "August 2020 - Present",
+        "description": "Developing web applications using LAMP stack and VueJS framework with MySQL database and deployment in AWS."
+      },
+      {
+        "company": "Xelpmoc Design & Tech",
+        "title": "Full-stack Intern",
+        "years": "Dec 2019 - July 2020",
+        "description": "Developed web applications for the client using Python, LAMP stack and Angular framework with MongoDB and MySQL databases in AWS."
+      },
+      {
+        "company": "SYPA TREE",
+        "title": "Project Manager (During master's)",
+        "years": "Nov 2018 - Dec 2019",
+        "description": "Initially started working as a Software Developer in the Skilled Youth Professionals Association (SYPA) and later on promoted to project manager and had developed applications and managed various projects within the organizations"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Laravel",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "MySQL",
+        "level": "85%"
+      },
+      {
+        "name": "AWS",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "The Pencil App",
+        "category": "The Pencil App for buying and reading books through mobile app",
+        "image": "pencil-app.png",
+        "url": "https://play.google.com/store/apps/details?id=com.thepencilapp&hl=en_IN"
+      },
+      {
+        "title": "The Pencil App (writer)",
+        "category": "The Pencil web application for writing books online for authorss",
+        "image": "pencil-writer.png",
+        "url": "https://writer.thepencilapp.com/"
+      },
+      {
+        "title": "SYPA TREE",
+        "category": "A static website for company profile",
+        "image": "sypa-tree.png",
+        "url": "https://www.sypatree.com/"
+      },
+      {
+        "title": "SYPA JOB",
+        "category": "A Job search web application for students and recruiters",
+        "image": "sypa-job.png",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Saqib is one of the nice colleagues that I worked. He is having great skills in Full Stack Development. He achieved a lot in less span of time. I will definitely refer him if any company wants a good full stack developer.",
+        "user": "Venkatesh Mogili"
+      }
+    ]
+  }
+}
