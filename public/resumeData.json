@@ -125,6 +125,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "The Netflix Clone",
+        "category": "Created a netflix clone using reactjs and firebase.",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-saqib.web.app/"
+      },
+      {
         "title": "The Pencil App",
         "category": "The Pencil App for buying and reading books through mobile app",
         "image": "pencil-app.png",
